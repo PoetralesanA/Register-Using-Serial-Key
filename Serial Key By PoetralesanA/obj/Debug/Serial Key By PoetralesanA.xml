@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SerialKeyByPoetralesanA
+</name>
+</assembly>
+<members>
+<member name="P:Serial_Key_By_PoetralesanA.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Serial_Key_By_PoetralesanA.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Serial_Key_By_PoetralesanA.My.Resources.Resources.about">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Serial_Key_By_PoetralesanA.My.Resources.Resources.mycontact">
+	<summary>
+  Looks up a localized string similar to https://www.facebook.com/poetralesana.
+</summary>
+</member><member name="T:Serial_Key_By_PoetralesanA.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

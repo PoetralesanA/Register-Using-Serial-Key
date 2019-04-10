@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial_Key_By_PoetralesanA.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial Key By PoetralesanA.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\bin\Debug\Serial Key By PoetralesanA.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\bin\Debug\Serial Key By PoetralesanA.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\bin\Debug\Serial Key By PoetralesanA.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial Key By PoetralesanA.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial Key By PoetralesanA.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial Key By PoetralesanA.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial_Key_By_PoetralesanA.formReg.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial_Key_By_PoetralesanA.formMain.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial_Key_By_PoetralesanA.Gen.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\bin\Debug\Serial Key By PoetralesanA.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Serial Key By PoetralesanA\Serial Key By PoetralesanA\obj\Debug\Serial Key By PoetralesanA.vbprojResolveAssemblyReference.cache
